@@ -1,4 +1,4 @@
 captest
 =======
 
-tesing capistrano
+testing capistrano

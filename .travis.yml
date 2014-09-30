@@ -1,0 +1,2 @@
+notifications:
+  webhooks: http://178.62.43.49:9080/integrations/travis/c082bf751d0bb5de84e9bd05dc6bdd6d
